@@ -76,7 +76,7 @@ fun CropImageView(
                     )
                 }) {
                 Text(
-                    text = "Rotate\nLeft",
+                    text = "Spin\n↶",
                     textAlign = TextAlign.Center,
                     maxLines = 2
                 )
@@ -119,7 +119,7 @@ fun CropImageView(
                 }
             ) {
                 Text(
-                    text = "Rotate\nRight",
+                    text = "Spin\n↷",
                     textAlign = TextAlign.Center
                 )
             }
